@@ -1,18 +1,4 @@
 # Synopsis
-## I'm not perfect, but I try.
-
-Firstly.  #MeteorPress and #OnePageWonder are here to stay, and they wish
-to be your friend and help you make money, faster.  I worked on my own,
-closed source PHP content management systems exclusively for over a decade.
-I will pursue of both my new babies with the same fervor and commitment,
-but free to the world, forever.
-
-These guidelines are intended for those interested in contributing to them
-or for those interested in learning how others do things and maybe learning
-a little something along the way.
-
-I printed out the 6th edition ECMA spec, but I have not yet had time to read
-it.  #OnePageWonder must be 1.0.0'd first! :>
 
 # Intro
 
